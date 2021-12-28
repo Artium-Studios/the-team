@@ -3,20 +3,23 @@ Hey there! Welcome to the AMP public team repo. The team grows. The atomic unit 
 
 With that preamble aside, meet the team...
 
-1. **Mike McCormick**
+1. **Mike McCormick** (General Manager/CEO)
  - 
  - Find [Mike on LinkedIn](https://www.linkedin.com/in/get-to-know-mike/) 
-2. **Jessamine Dana**
+2. **Jessamine Dana** (Senior Researcher)
 
  - Find [Jessamine on LinkedIn](https://www.linkedin.com/in/jessamine-dana-92927513/)
-3. **Darren Sherrell**
+3. **Darren Sherrell** (Senior Researcher)
  - 
  - Find [Darren on LinkedIn](https://www.linkedin.com/in/diffractionspectroscopy/)
-4. **Adam Bedford**
+4. **Adam Bedford** (Principal Product Manager)
  - 
  - Find [Adam on LinkedIn](https://www.linkedin.com/in/bedfordadam/)
-5. **Ryan** 
-6. **Lucas Dickey**
+5. **Ryan Durling** (Senior Software Engineer)
+  -
+  -  Find [Adam on LinkedIn](https://www.linkedin.com/in/ryanpdurling/)
+6. **Lucas Dickey** (EIR)
+ - "Hi! I'm a career product manager who tested my mettle early on in my career at Amazon, where I helped launched the MP3 business in the US, then expand across 18 countries, then pitched & launched two new businesses/products (Amazon Drive and Amazon Music Player). Most recently I co-founded [Fernish](www.fernish.com) and acted as chief product & technical officer from pre-launch to post-Series B financing. I've also DJ'd on terrestrial radio, wrote for music magazines, invested in over 10 startups as an angel, read & write constantly, and made a little mini-me named JJ."
  - Find [Lucas on LinkedIn](https://www.linkedin.com/in/lucasdickey) 
 7. Looking for a **Principal Software Development Engineer** 
  - See the Job Description [here] (https://boards.greenhouse.io/artium/jobs/4174717004)
