@@ -5,22 +5,22 @@ With that preamble aside, meet the team...
 
 1. **Mike McCormick**
  - 
- - Find [Mike on LinkedIn] (https://www.linkedin.com/in/get-to-know-mike/) 
+ - Find [Mike on LinkedIn](https://www.linkedin.com/in/get-to-know-mike/) 
 2. **Jessamine Dana**
 
- - Find [Jessamine on LinkedIn] (https://www.linkedin.com/in/jessamine-dana-92927513/)
+ - Find [Jessamine on LinkedIn](https://www.linkedin.com/in/jessamine-dana-92927513/)
 3. **Darren Sherrell**
  - 
- - Find [Darren on LinkedIn] (https://www.linkedin.com/in/diffractionspectroscopy/)
+ - Find [Darren on LinkedIn](https://www.linkedin.com/in/diffractionspectroscopy/)
 4. **Adam Bedford**
  - 
- - Find [Adam on LinkedIn] (https://www.linkedin.com/in/bedfordadam/)
+ - Find [Adam on LinkedIn](https://www.linkedin.com/in/bedfordadam/)
 5. **Ryan** 
 6. **Lucas Dickey**
- - Find [Lucas on LinkedIn] (https://www.linkedin.com/in/lucasdickey) 
+ - Find [Lucas on LinkedIn](https://www.linkedin.com/in/lucasdickey) 
 7. Looking for a **Principal Software Development Engineer** 
  - See the Job Description [here] (https://boards.greenhouse.io/artium/jobs/4174717004)
  -  
 8. As well as a **Senior/Principal Product Designer**
- - See the Job Description [here] (https://boards.greenhouse.io/artium/jobs/4174745004)
+ - See the Job Description [here](https://boards.greenhouse.io/artium/jobs/4174745004)
  - 
