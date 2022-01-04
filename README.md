@@ -14,7 +14,8 @@ With that preamble aside, meet the team...
 4. **Adam Bedford** (Principal Product Manager)
  - Find [Adam on LinkedIn](https://www.linkedin.com/in/bedfordadam/)
 5. **Ryan Durling** (Senior Software Engineer)
-  -  Find [Adam on LinkedIn](https://www.linkedin.com/in/ryanpdurling/)
+  -  Find [Ryan on LinkedIn](https://www.linkedin.com/in/ryanpdurling/)
+  -  My [Github](https://github.com/RyanDur)
 6. **Lucas Dickey** (EIR)
  - "Hi! I'm a career product manager who tested my mettle early on in my career at Amazon, where I helped launched the MP3 business in the US, then expand across 18 countries, then pitched & launched two new businesses/products (Amazon Drive and Amazon Music Player). Most recently I co-founded [Fernish](www.fernish.com) and acted as chief product & technical officer from pre-launch to post-Series B financing. I've also DJ'd on terrestrial radio, wrote for music magazines, invested in over 10 startups as an angel, read & write constantly, and made a little mini-me named JJ."
  - Find [Lucas on LinkedIn](https://www.linkedin.com/in/lucasdickey) 
