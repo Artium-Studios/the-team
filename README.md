@@ -12,6 +12,7 @@ With that preamble aside, meet the team...
  - Find [Darren on LinkedIn](https://www.linkedin.com/in/diffractionspectroscopy/)
  - Read [Darren's dissertation](https://harvest.usask.ca/handle/10388/ETD-2014-03-1460)
 4. **Adam Bedford** (Principal Product Manager)
+ - "Hey there! I'm a lifelong 'maker', having taught myself to code as a kid, and have built and scaled a number of products, teams, and businesses throughout my career. After leading product development for several startups, I founded an edtech startup, JobTrack, that helped schools track and improve career outcomes, which was acquired in 2018. Recently, I built a small portfolio of ventures across a variety of industries ranging from education to e-commerce, acting as product/technical/go-to-market leader. I'm an avid tennis player and also love to read, travel and cook!"
  - Find [Adam on LinkedIn](https://www.linkedin.com/in/bedfordadam/)
 5. **Ryan Durling** (Senior Software Engineer)
   -  Find [Ryan on LinkedIn](https://www.linkedin.com/in/ryanpdurling/)
