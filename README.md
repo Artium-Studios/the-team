@@ -12,6 +12,7 @@ With that preamble aside, meet the team...
 3. **Darren Sherrell** (Senior Researcher)
  - "Hello! I was a career scientist and engineer. A crazy cowboy scientist hired me to help him build a very complex piece of scientific equipment. After that, I was hooked and eventually got my Ph.D. in BioPhysics. I was among only a handful of scientists studying at the forefront of time-resolved, atomic resolution, protein dynamics. I hit a scientific career-high when my beamline was responsible for discovering 9 of the 21 protein structures of the original Covid strain. I've invented and built equipment and experiments. Artium is my most significant career change, and I'm excited to bring scientific rigor to the software development lifecycle. I've been a postman, bartender, carpenter and painted my fair share of elf houses amongst many other jobs."
  - Find [Darren on LinkedIn](https://www.linkedin.com/in/diffractionspectroscopy/)
+ - Read [Darren's dissertation](https://harvest.usask.ca/handle/10388/ETD-2014-03-1460)
 4. **Adam Bedford** (Principal Product Manager)
  - 
  - Find [Adam on LinkedIn](https://www.linkedin.com/in/bedfordadam/)
