@@ -21,7 +21,8 @@ With that preamble aside, meet the team...
 6. **Lucas Dickey** (EIR)
  - "Hi! I'm a career product manager who tested my mettle early on in my career at Amazon, where I helped launched the MP3 business in the US, then expand across 18 countries, then pitched & launched two new businesses/products (Amazon Drive and Amazon Music Player). Most recently I co-founded [Fernish](www.fernish.com) and acted as chief product & technical officer from pre-launch to post-Series B financing. I've also DJ'd on terrestrial radio, wrote for music magazines, invested in over 10 startups as an angel, read & write constantly, and made a little mini-me named JJ."
  - Find [Lucas on LinkedIn](https://www.linkedin.com/in/lucasdickey) 
-7. Looking for a **Principal Software Development Engineer** 
- - See the Job Description [here] (https://boards.greenhouse.io/artium/jobs/4174717004)
+7. Amy Woodward
+ - Find [Amy on LinkedIn](https://www.linkedin.com/in/amywoodward/)
+ - Amy's intro and other details coming soon—she starts last week of January!
 8. As well as a **Senior/Principal Product Designer**
  - See the Job Description [here](https://boards.greenhouse.io/artium/jobs/4174745004)
